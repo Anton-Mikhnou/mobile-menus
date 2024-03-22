@@ -1,0 +1,14 @@
+.header {
+    color: aliceblue;
+    background-color: transparent;
+    height: 80px;
+    box-sizing: border-box;
+    border-bottom: 2px solid cadetblue;
+}
+
+.header__inner {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    gap: 70px;
+}
